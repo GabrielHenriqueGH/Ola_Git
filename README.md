@@ -1,2 +1,2 @@
-# Ola_Git
- Primeiro repositório do Curso em vídeo
+# Olá, Git
+ Primeiro repositório feito no Curso do Professor Guanabara
